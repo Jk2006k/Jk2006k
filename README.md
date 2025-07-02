@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **kishoore004@gmail.com**
 
+- 👔 Connect me with [LinkedIn](https://www.linkedin.com/in/kishoore-j-9081b5349)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
