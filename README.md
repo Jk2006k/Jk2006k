@@ -1,8 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Kishoore J</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<h3 align="left">Curious to uncover who I really am? [Portfolio](https://portfolio-orpin-kappa-wnrz83ga2c.vercel.app/)</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jk2006k&label=Profile%20views&color=0e75b6&style=flat" alt="jk2006k" /> </p>
+
+- 🤔 Curious to uncover who I really am? [Portfolio](https://portfolio-orpin-kappa-wnrz83ga2c.vercel.app/)
 
 - 🔭 I’m currently working on [VoteAura](https://github.com/kalviumcommunity/S65_Kishoore_Capstone_Voteaura)
 
