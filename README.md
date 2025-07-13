@@ -6,7 +6,7 @@
 
 - 🤔 Curious to uncover who I really am? [Portfolio](https://portfolio-orpin-kappa-wnrz83ga2c.vercel.app/)
 
-- 🔭 I’m currently working on [VoteAura](https://github.com/kalviumcommunity/S65_Kishoore_Capstone_Voteaura)
+- 🔭 I’m currently working on [Zenth_Pro](https://github.com/Jk2006k/Zenth_Pro)
 
 - 🌱 I’m currently learning **Animations & UX/UI**
 
