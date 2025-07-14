@@ -6,11 +6,11 @@
 
 - 🤔 Curious to uncover who I really am? [Portfolio](https://portfolio-orpin-kappa-wnrz83ga2c.vercel.app/)
 
-- 🔭 I’m currently working on [Zenth_Pro](https://github.com/Jk2006k/Zenth_Pro)
+- 🔭 I’m currently working on [Zenth](https://github.com/Jk2006k/Zenth)
 
 - 🌱 I’m currently learning **Animations & UX/UI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jk2006k](https://github.com/Jk2006k)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Jk2006k)
 
 - 📫 How to reach me **kishoore004@gmail.com**
 
