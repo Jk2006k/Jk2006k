@@ -6,7 +6,7 @@
 
 - 🤔 Curious to uncover who I really am? [Portfolio](https://portfolio-orpin-kappa-wnrz83ga2c.vercel.app/)
 
-- 🔭 I’m currently working on [Zenth](https://github.com/Jk2006k/Zenth)
+- 🔭 I’m currently working on [AlmostUs](https://github.com/One-Lunar/almostus)
 
 - 🌱 I’m currently learning **Animations & UX/UI**
 
