@@ -26,6 +26,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jk2006k&show_icons=true&locale=en&layout=compact" alt="jk2006k" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jk2006k&show_icons=true&locale=en" alt="jk2006k" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jk2006k&" alt="jk2006k" /></p>
+<div align="left">
+  
+  [![Kishoore's LeetCode stats](https://leetcard.jacoblin.cool/JK04?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/JK04/)
+  
+</div>
 
