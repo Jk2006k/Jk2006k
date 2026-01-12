@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jk2006k&label=Profile%20views&color=0e75b6&style=flat" alt="jk2006k" /> </p>
 
-- 🤔 Curious to uncover who I really am? [Portfolio](https://portfolio-orpin-kappa-wnrz83ga2c.vercel.app/)
+- 🤔 Curious to uncover who I really am? [Portfolio](https://kishoore.me/)
 
 - 🔭 I’m currently working on [AlmostUs](https://github.com/One-Lunar/almostus)
 
