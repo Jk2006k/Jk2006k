@@ -35,25 +35,7 @@ Debugging life one commit at a time, powered by curiosity and a bit too much cof
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
 </p>
 
----
 
-## Connect With Me
-
-<p align="center">
-
-<a href="mailto:kishoore004@gmail.com" style="display:inline-block;width:70px">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" height="32"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kishoore-j-9081b5349" style="display:inline-block;width:70px">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32"/>
-</a>
-
-<a href="https://leetcode.com/JK04/" style="display:inline-block;width:70px">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="32"/>
-</a>
-
-</p>
 
 ---
 
@@ -65,13 +47,11 @@ Debugging life one commit at a time, powered by curiosity and a bit too much cof
 
 ---
 
-## Contribution Activity
+## Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jk2006k&theme=github-dark&hide_border=true"/>
 </p>
-
----
 
 <!-- FOOTER -->
 
