@@ -1,4 +1,4 @@
-<!-- HERO -->
+
 <h1 align="center">Kishoore J</h1>
 
 <p align="center">
